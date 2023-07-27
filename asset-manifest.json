@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react__three-fiber/static/css/main.a474edea.css",
+    "main.js": "/react__three-fiber/static/js/main.b7bfe4e4.js",
+    "index.html": "/react__three-fiber/index.html",
+    "main.a474edea.css.map": "/react__three-fiber/static/css/main.a474edea.css.map",
+    "main.b7bfe4e4.js.map": "/react__three-fiber/static/js/main.b7bfe4e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a474edea.css",
+    "static/js/main.b7bfe4e4.js"
+  ]
+}
